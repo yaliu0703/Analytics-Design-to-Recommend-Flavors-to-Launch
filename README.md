@@ -693,14 +693,9 @@ turf2
 
 ## 3. Insights
 
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/blob/master/1.png?raw=true"/>
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/blob/master/2.png?raw=true"/>
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/blob/master/3.png?raw=true"/>
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/blob/master/4.png?raw=true"/>
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/blob/master/5.png?raw=true"/>
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/blob/master/6.png?raw=true"/>
